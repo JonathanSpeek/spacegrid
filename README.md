@@ -1,4 +1,4 @@
-![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/helmet.png?raw=true) # SpaceGrid
+<div align="center"><img src="https://github.com/JonathanSpeek/spacegrid/blob/master/helmet.png?raw=true"/></div>
 
 A basic, responsive grid layout to help you get started on your next project.
 ---
