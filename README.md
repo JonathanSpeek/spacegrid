@@ -1,4 +1,4 @@
-# SpaceGrid
+![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/helmet.png?raw=true) # SpaceGrid
 
 A basic, responsive grid layout to help you get started on your next project.
 ---
