@@ -10,6 +10,10 @@ Download either the spacegrid.min.css or spacegrid.css file and link it to your 
 - ```<link rel="stylesheet" href="path/to/space-grid/css/spacegrid.min.css">```
 - ```<link rel="stylesheet" href="path/to/space-grid/css/spacegrid.css">```
 
+Do not forget to add this into the head for the @media queries to function: 
+
+- ```<meta name="viewport" content="width=device-width" />```
+
 ![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/spacegrid-layout.png?raw=true)
 
 ```
