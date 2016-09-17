@@ -93,7 +93,7 @@
   width: 75%;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 425px) {
   .space-1 {
     width: 100%;
   }
@@ -132,7 +132,7 @@
   }
 }
 
-@media (min-width: 30em) and (max-width: 50em) {
+@media (min-width: 425px) and (max-width: 768px) {
   .space-4,
   .space-6,
   .space-8,
@@ -151,7 +151,7 @@
   }
 }
 
-@media (min-width: 50em) and (max-width: 68.75em) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .space-2,
   .space-7 {
     width: 100%;
