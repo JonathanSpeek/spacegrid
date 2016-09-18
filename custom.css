@@ -6,6 +6,11 @@ h1 {
 	color: white;
 }
 
+a {
+	text-decoration: none;
+	color: white;
+}
+
 .space-title {
 	padding: 4em 0;
 	background-color: #1a237e;
