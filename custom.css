@@ -11,13 +11,13 @@ a {
 	color: white;
 }
 
+[class*='space-'] {
+	margin: .75em 0;
+	}
+
 .space-title {
 	padding: 4em 0;
 	background-color: #1a237e;
-}
-
-.row {
-	margin: 1.5em 0;
 }
 
 .rectangle {
