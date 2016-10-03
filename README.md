@@ -19,6 +19,8 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 </html>
 ```
 
+## Check out a quick and easy demo [here](https://jonathanspeek.github.io/spacegrid/).
+
 ![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/spacegrid-layout.png?raw=true)
 
 ### Examples
@@ -56,7 +58,3 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
     <div class="space-66">This is 66.6% width</div>
 </div>
 ```
-
-### Demo Site
-
-Check out a quick and easy [demo](https://jonathanspeek.github.io/spacegrid/).
