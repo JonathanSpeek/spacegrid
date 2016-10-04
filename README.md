@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/JonathanSpeek/spacegrid/blob/master/helmet.png?raw=true"/></div>
+<div align="center"><img src="https://github.com/JonathanSpeek/spacegrid/blob/master/icon-spacegrid.png?raw=true"/></div>
 
 A basic, responsive grid layout to help you get started on your next project.
 ---
@@ -51,10 +51,33 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
     <div class="space-4">This is 25% width</div>
     <div class="space-4">This is 25% width</div>
 </div>
+```
 
-<!-- this works too :D -->
+### Added flexibility
+
+#### There are a few add-ons:
+
+* 25% width
+* 40% width
+* 60% width
+* 66% width
+* 75% width
+
+```
+<!-- these works too :D -->
+
 <div class="row">
     <div class="space-3">This is 33.3% width</div>
     <div class="space-66">This is 66.6% width</div>
+</div>
+
+<div class="row">
+    <div class="space-75">This is 75% width</div>
+    <div class="space-25">This is 25% width</div>
+</div>
+
+<div class="row">
+    <div class="space-40">This is 40% width</div>
+    <div class="space-60">This is 60% width</div>
 </div>
 ```
