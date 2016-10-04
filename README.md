@@ -1,4 +1,6 @@
-<div align="center"><img style="width:100px;height:auto;" src="https://cdn.rawgit.com/JonathanSpeek/spacegrid/master/icon-spacegrid.svg"/></div>
+<div align="center">
+    <img style="width:100px;height:auto;" src="https://cdn.rawgit.com/JonathanSpeek/spacegrid/master/icon-spacegrid.svg"/>
+</div>
 
 A basic, responsive grid layout to help you get started on your next project.
 ---
