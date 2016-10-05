@@ -20,8 +20,8 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 	</head>
 </html>
 ```
-
-## Check out a quick and easy demo [here](https://jonathanspeek.github.io/spacegrid/).
+---
+## Check out a basic demo [here](https://jonathanspeek.github.io/spacegrid/).
 
 ![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/spacegrid-layout.png?raw=true)
 
@@ -54,10 +54,10 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
     <div class="space-4">This is 25% width</div>
 </div>
 ```
+---
+### With Added Flexibility
 
-### Added flexibility
-
-#### There are a few add-ons:
+#### Here are a few add-ons:
 
 * 25% width
 * 40% width
@@ -83,3 +83,6 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
     <div class="space-60">This is 60% width</div>
 </div>
 ```
+---
+#### Customize widths by adding your own!
+
