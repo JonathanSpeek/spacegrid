@@ -87,3 +87,19 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 ---
 #### Customize widths by adding your own!
 
+### Ruby Gem
+See [documentation](https://rubygems.org/gems/spacegrid)
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'spacegrid'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install spacegrid
