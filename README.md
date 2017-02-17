@@ -103,3 +103,8 @@ And then execute:
 Or install it yourself as:
 
     $ gem install spacegrid
+
+Add this to your application.css file:
+```css
+*= require spacegrid
+```
