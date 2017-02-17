@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="197px" height="183px" viewBox="0 0 197 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>SpaceGrid Logo</title>
+    <desc>Created with Sketch by Jonathan Speek</desc>
+    <defs>
+        <ellipse id="path-1" cx="69.7088618" cy="69.4490242" rx="69.0676888" ry="69.0950012"></ellipse>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-helmet-light-orange" transform="translate(0.000000, 5.000000)">
+            <g id="helmet">
+                <ellipse id="Oval" fill="#FEEF6D" fill-rule="nonzero" cx="98.6793686" cy="163.78046" rx="57.1624529" ry="14.2195402"></ellipse>
+                <rect id="Rectangle" fill="#FEEF6D" fill-rule="nonzero" x="41.5169157" y="149.970115" width="9.20325717" height="13.2988506"></rect>
+                <rect id="Rectangle" fill="#FEEF6D" fill-rule="nonzero" x="146.638564" y="149.788506" width="9.20325717" height="13.2988506"></rect>
+                <ellipse id="Oval-3" fill="#FEEF6D" fill-rule="nonzero" cx="180.304166" cy="84.6011494" rx="16.0545708" ry="16.0609195"></ellipse>
+                <ellipse id="Oval-3" fill="#FEEF6D" fill-rule="nonzero" cx="16.0545708" cy="84.6011494" rx="16.0545708" ry="16.0609195"></ellipse>
+                <ellipse id="Oval-2" stroke="#FEEF6D" stroke-width="9" fill="#2C3643" fill-rule="nonzero" cx="98.6793686" cy="84.6011494" rx="84.5677076" ry="84.6011494"></ellipse>
+                <g id="Mask" transform="translate(30.000000, 15.000000)" fill-rule="nonzero" fill="#FEEF6D">
+                    <ellipse id="path-1" cx="69.0676888" cy="69.0950012" rx="69.0676888" ry="69.0950012"></ellipse>
+                </g>
+                <g id="Group" transform="translate(29.358827, 14.645977)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <g id="Line" mask="url(#mask-2)" stroke-linecap="round" stroke="#2C3643" stroke-width="6">
+                        <g transform="translate(5.000000, 41.413793)" id="Shape">
+                            <path d="M0.102258413,0.102298851 L40.6012366,40.6172921"></path>
+                        </g>
+                    </g>
+                    <g id="Group-2" mask="url(#mask-2)" stroke-linecap="round" stroke="#2C3643" stroke-width="6">
+                        <g transform="translate(8.476786, 23.000000)" id="Line">
+                            <path d="M0.203887637,0.203968264 L33.4431477,33.4563726"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
