@@ -27,11 +27,16 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 
 ## Quick Installation
 
-### Install with NPM 
+### Install with NPM
 See [documentation](https://www.npmjs.com/search?q=spacegrid)
 
     $ npm install spacegrid
-    
+
+Add this to the head of your pages:
+```html
+<script src="build/bundle.js"></script>
+```
+
 ### Install using Ruby Gem
 See [documentation](https://rubygems.org/gems/spacegrid)
 
