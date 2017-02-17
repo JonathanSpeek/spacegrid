@@ -20,11 +20,39 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 	</head>
 </html>
 ```
----
-## Check out a basic demo [here](https://jonathanspeek.github.io/spacegrid/).
-## Or see it out in the wild [here](http://jspeek.me).
+
+## Check out a basic demo [here](https://jonathanspeek.github.io/spacegrid/), or see it out in the wild [here](http://jspeek.me).
 
 ![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/spacegrid-layout.png?raw=true)
+
+## Quick Installation
+
+### Install with NPM 
+See [documentation](https://www.npmjs.com/search?q=spacegrid)
+
+    $ npm install spacegrid
+    
+### Install using Ruby Gem
+See [documentation](https://rubygems.org/gems/spacegrid)
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'spacegrid'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install spacegrid
+
+Add this to your application.css file:
+```css
+*= require spacegrid
+```
 
 ### Examples
 
@@ -86,25 +114,3 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 ```
 ---
 #### Customize widths by adding your own!
-
-### Ruby Gem
-See [documentation](https://rubygems.org/gems/spacegrid)
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'spacegrid'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install spacegrid
-
-Add this to your application.css file:
-```css
-*= require spacegrid
-```
