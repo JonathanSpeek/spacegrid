@@ -1,14 +1,13 @@
 h1 {
-	font-family: 'Poiret One', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 4em;
 	font-weight: 700;
-	letter-spacing: .045em;
-	color: white;
+	color: #feef6d;
 }
 
 a {
 	text-decoration: none;
-	color: white;
+	color: #feef6d;
 }
 
 [class*='space-'] {
@@ -17,7 +16,8 @@ a {
 
 .space-title {
 	padding: 4em 0;
-	background-color: #1a237e;
+	background-color: #2c3643;
+	margin: 0 !important;
 }
 
 .rectangle {
