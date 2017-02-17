@@ -37,6 +37,17 @@ Add this to the head of your pages:
 <script src="build/bundle.js"></script>
 ```
 
+### Install with Bower
+See [documentation](https://github.com/JonathanSpeek/spacegrid_bower.git)
+
+    $ bower install spacegrid
+
+Add this to the head of your pages:
+```html
+<link href="path_to/bower_components/spacegrid/spacegrid.css" rel="stylesheet" type="text/css">
+```
+
+
 ### Install using Ruby Gem
 See [documentation](https://rubygems.org/gems/spacegrid)
 
