@@ -129,4 +129,13 @@ Add this to your application.css file:
 </div>
 ```
 ---
-#### Customize widths by adding your own!
+
+## Todo's
+- [ ] Flexbox implementation
+- [ ] Add optional components (buttons, navbar, typography, etc.)
+
+#### Contributing to Spacegrid
+- [Fork](http://guides.github.com/activities/forking/) the repository and clone it locally. Connect your local to the original ‘upstream’ repository by adding it as a remote. Pull in changes from ‘upstream’ often so that you stay up to date so that when you submit your pull request, merge conflicts will be less likely. See more detailed instructions [here](https://help.github.com/articles/syncing-a-fork).
+- Create a [branch](http://guides.github.com/introduction/flow/) for your edits.
+- Contribute in the style of the project to the best of your abilities. This may mean using indents, semi colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
+- Once you’ve opened a pull request a discussion will start around your proposed changes. Other contributors and users may chime in, but ultimately the decision is made by the maintainer(s). You may be asked to make some changes to your pull request, if so, add more commits to your branch and push them – they’ll automatically go into the existing pull request.
