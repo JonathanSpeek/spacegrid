@@ -23,7 +23,6 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 
 ## Check out a basic demo [here](http://jspeek.me/spacegrid/index.html), or see it out in the wild [here](http://jspeek.me).
 
-![alt tag](https://github.com/JonathanSpeek/spacegrid/blob/master/spacegrid-layout.png?raw=true)
 
 ## Quick Installation
 
