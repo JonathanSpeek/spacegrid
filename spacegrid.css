@@ -131,10 +131,10 @@
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  .space-2,
   .space-7 {
     width: 100%;
   }
+  .space-2,
   .space-4,
   .space-8,
   .space-10,
