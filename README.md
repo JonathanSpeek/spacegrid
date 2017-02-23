@@ -134,4 +134,8 @@ Add this to your application.css file:
 - [ ] Add optional components (buttons, navbar, typography, etc.)
 
 ## Contributing to Spacegrid
-- [Contribution Guide](https://github.com/JonathanSpeek/spacegrid/blob/master/CONTRIBUTING.md)
+- Spacegrid CSS is currently maintained by [@JonathanSpeek](http://github.com/jonathanspeek)
+- Checkout the [Contribution Guide](https://github.com/JonathanSpeek/spacegrid/blob/master/CONTRIBUTING.md) if you'd like to lend a hand.
+
+## Follow Us
+- For announcements and updates, follow Spacegrid CSS on Twitter: [@spacegridcss](http://twitter.com/spacegridcss)
