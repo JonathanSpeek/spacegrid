@@ -16,7 +16,7 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 		<meta name="viewport" content="width=device-width" />
 
 		<!-- include the space-grid css -->
-		<link rel="stylesheet" href="path/to/space-grid/css/spacegrid.min.css">
+		<link rel="stylesheet" href="path_to/space-grid/css/spacegrid.min.css">
 	</head>
 </html>
 ```
@@ -33,7 +33,7 @@ See [documentation](https://www.npmjs.com/search?q=spacegrid)
 
 Add this to the head of your pages:
 ```html
-<script src="build/bundle.js"></script>
+<script src="path_to/node_modules/spacegrid/build/bundle.js"></script>
 ```
 
 ### Install with Bower
