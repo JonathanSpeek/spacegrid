@@ -1,5 +1,11 @@
 <div align="center">
     <img style="width:100px;height:auto;" src="https://cdn.rawgit.com/JonathanSpeek/spacegrid/master/spacegrid-logo.svg"/>
+    <p align="center">
+  <img src="https://img.shields.io/github/tag/jonathanspeek/spacegrid.svg" alt="Tag">
+  <a href="https://rubygems.org/gems/spacegrid"><img src="https://img.shields.io/gem/dt/spacegrid.svg" alt="Downloads"></a>
+  <a href="https://www.npmjs.com/package/spacegrid"><img src="https://img.shields.io/npm/dt/spacegrid.svg" alt="Downloads"></a>
+  <a href="https://github.com/JonathanSpeek/spacegrid/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/jonathanspeek/spacegrid.svg" alt="License"></a>
+</p>
 </div>
 
 A basic, responsive grid layout to help you get started on your next project.
