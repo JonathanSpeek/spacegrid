@@ -135,9 +135,8 @@ Add this to your application.css file:
 ```
 ---
 
-## Todo's
-- [ ] Flexbox implementation
-- [ ] Add optional components (buttons, navbar, typography, etc.)
+## Ghost Theme
+- For you [Ghost](http://ghost.org) bloggers, I've made a [theme](https://github.com/JonathanSpeek/spacegrid_ghost_theme) using Spacegrid
 
 ## Contributing to Spacegrid
 - Spacegrid CSS is currently maintained by [@JonathanSpeek](http://github.com/jonathanspeek)
@@ -145,3 +144,4 @@ Add this to your application.css file:
 
 ## Follow Us
 - For announcements and updates, follow Spacegrid CSS on Twitter: [@spacegridcss](http://twitter.com/spacegridcss)
+- Feel free to buy me a [coffee](https://ko-fi.com/A378OHL)! 
