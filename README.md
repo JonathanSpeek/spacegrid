@@ -27,7 +27,7 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 </html>
 ```
 
-## Check out a basic demo [here](http://jspeek.me/spacegrid/index.html), or see it out in the wild [here](http://jspeek.me).
+## Check out a basic demo [here](http://spacegrid.jonathanspeek.com/), or see it out in the wild [here](http://about.jonathanspeek.com/).
 
 
 ## Quick Installation
