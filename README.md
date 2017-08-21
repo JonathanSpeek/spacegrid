@@ -134,6 +134,9 @@ Add this to your application.css file:
 </div>
 ```
 ---
+### Compatibility
+#### CSS3 media queries are utilitized, which are well-supported amongst most modern browsers. Here's a compatibility [chart](http://caniuse.com/#search=CSS3%20Media%20Queries).
+---
 
 ## Ghost Theme
 - For you [Ghost](http://ghost.org) bloggers, I've made a [theme](https://github.com/JonathanSpeek/spacegrid_ghost_theme) using Spacegrid
