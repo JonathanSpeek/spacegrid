@@ -27,9 +27,6 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 </html>
 ```
 
-## Check out a basic demo [here](http://spacegrid.jonathanspeek.com/), or see it out in the wild [here](http://about.jonathanspeek.com/).
-
-
 ## Quick Installation
 
 ### Install with NPM
@@ -143,8 +140,4 @@ Add this to your application.css file:
 
 ## Contributing to Spacegrid
 - Spacegrid CSS is currently maintained by [@JonathanSpeek](http://github.com/jonathanspeek)
-- Checkout the [Contribution Guide](https://github.com/JonathanSpeek/spacegrid/blob/master/CONTRIBUTING.md) if you'd like to lend a hand.
-
-## Follow Us
-- For announcements and updates, follow Spacegrid CSS on Twitter: [@spacegridcss](http://twitter.com/spacegridcss)
-- Feel free to buy me a [coffee](https://ko-fi.com/A378OHL)! 
+- Checkout the [Contribution Guide](https://github.com/JonathanSpeek/spacegrid/blob/master/CONTRIBUTING.md) if you'd like to lend a hand. 
