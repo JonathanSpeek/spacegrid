@@ -101,6 +101,8 @@ Add this to your application.css file:
     <div class="space-4">This is 25% width</div>
 </div>
 ```
+
+See it in use [here](http://speek.design/spacegrid/).
 ---
 ### With Added Flexibility
 
