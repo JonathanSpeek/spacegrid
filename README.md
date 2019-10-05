@@ -8,7 +8,7 @@
 </p>
 </div>
 
-A basic, responsive grid layout to help you get started on your next project.
+A basic, responsive grid layout to help you get started on your next project (in less than 1kb 🔥).
 ---
 
 ### Setup your project
@@ -19,11 +19,12 @@ Download either the [spacegrid.min.css](https://raw.githubusercontent.com/Jonath
 <html>
 	<head>
 		<!-- for the @media queries to function -->
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
 		<!-- include the space-grid css -->
 		<link rel="stylesheet" href="path_to/space-grid/css/spacegrid.min.css">
 	</head>
+	...
 </html>
 ```
 
@@ -102,7 +103,8 @@ Add this to your application.css file:
 </div>
 ```
 
-See it in use [here](http://speek.design/spacegrid/).
+See it in use [here](http://speek.design).
+
 ---
 ### With Added Flexibility
 
@@ -136,9 +138,6 @@ See it in use [here](http://speek.design/spacegrid/).
 ### Compatibility
 #### CSS3 media queries are utilitized, which are well-supported amongst most modern browsers. Here's a compatibility [chart](http://caniuse.com/#search=CSS3%20Media%20Queries).
 ---
-
-## Ghost Theme
-- For you [Ghost](http://ghost.org) bloggers, I've made a [theme](https://github.com/JonathanSpeek/spacegrid_ghost_theme) using Spacegrid
 
 ## Contributing to Spacegrid
 - Spacegrid CSS is currently maintained by [@JonathanSpeek](http://github.com/jonathanspeek)
