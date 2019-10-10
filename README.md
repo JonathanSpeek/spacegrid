@@ -8,7 +8,7 @@
 </p>
 </div>
 
-A basic, responsive grid layout to help you get started on your next project (in less than 1kb 🔥).
+A basic, responsive grid layout to help you get started on your next project (in about 1kb 🔥).
 ---
 
 ### Setup your project
